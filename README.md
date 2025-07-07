@@ -31,7 +31,7 @@ The project uses the ["Formula 1 World Championship (1950–2024)" dataset](http
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AwaisKhan-01/F1-Race-and-Championship-Predictor.git
    cd your-repo-name
    ```
 
@@ -79,8 +79,7 @@ The project uses the ["Formula 1 World Championship (1950–2024)" dataset](http
 
 ## Project Structure
 ```
-your-repo-name/
-│
+F1-Race-and-Championship-Predictor
 ├── data/
 │   ├── results.csv
 │   ├── races.csv
